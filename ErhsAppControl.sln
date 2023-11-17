@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErhsAppControl", "ErhsAppControl\ErhsAppControl.csproj", "{A86D002E-60B9-4736-8E6C-19708E09E034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86D002E-60B9-4736-8E6C-19708E09E034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86D002E-60B9-4736-8E6C-19708E09E034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86D002E-60B9-4736-8E6C-19708E09E034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86D002E-60B9-4736-8E6C-19708E09E034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF748EC3-A5E2-48A2-9E8D-1D172A5B3974}
+	EndGlobalSection
+EndGlobal
